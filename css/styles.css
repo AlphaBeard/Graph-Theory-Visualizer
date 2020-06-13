@@ -1,0 +1,26 @@
+.button {
+    position: fixed;
+    right:10px;
+    background-color: grey; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    width:14%;
+    font-size: 16px;
+}
+
+.button1{
+    top:10px;
+}
+.button2{
+    top:65px;
+}
+.button1{
+    top:10px;
+}
+.button1{
+    top:10px;
+}
